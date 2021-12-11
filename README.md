@@ -7,4 +7,6 @@ as a playground for testing different solutions and architectures used in highly
 
 ## Technologies used
 - Spring Boot 2.6.1
+  - Spring Web
+  - Spring Actuator
 - Gradle 7.3.1
