@@ -6,4 +6,5 @@ Idea behind this project is not to create some meaningful application but rather
 as a playground for testing different solutions and architectures used in highly available distributed application.
 
 ## Technologies used
-- Spring Boot
+- Spring Boot 2.6.1
+- Gradle 7.3.1
